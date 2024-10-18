@@ -1,0 +1,14 @@
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\bin\Debug\net8.0\CheckPoint.exe
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\bin\Debug\net8.0\CheckPoint.deps.json
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\bin\Debug\net8.0\CheckPoint.runtimeconfig.json
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\bin\Debug\net8.0\CheckPoint.dll
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\bin\Debug\net8.0\CheckPoint.pdb
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.AssemblyInfoInputs.cache
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.AssemblyInfo.cs
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.csproj.CoreCompileInputs.cache
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.dll
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\refint\CheckPoint.dll
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.pdb
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\CheckPoint.genruntimeconfig.cache
+C:\Users\ufar\Desktop\CheckPoint\CheckPoint\obj\Debug\net8.0\ref\CheckPoint.dll
